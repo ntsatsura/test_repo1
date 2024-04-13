@@ -1,5 +1,5 @@
 # test_repo1
- _here we will describe how we work with our repo_
+ here we will describe how we work with our repo
 
 ## Различие между командами git pull и git fetch
 
