@@ -1,7 +1,7 @@
-# **test_repo1**
-# here we will describe how we work with our repo
+# test_repo1
+# _here we will describe how we work with our repo_
 
-## **Различие между командами git pull и git fetch**
+## Различие между командами git pull и git fetch
 
 ### ***git fetch и git merde***
 
