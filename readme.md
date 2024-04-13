@@ -1,5 +1,5 @@
 # test_repo1
-#### _here we will describe how we work with our repo_
+ _here we will describe how we work with our repo_
 
 ## Различие между командами git pull и git fetch
 
@@ -27,4 +27,4 @@
 
 **git pull**
 - получение изменений из удаленного репозитория и одновременное объединение их с версией/веткой проекта на локальном репозитории
->> *объединяет в себе две команды: git fetch + git merde*
+> *объединяет в себе две команды: git fetch + git merde*
